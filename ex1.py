@@ -1,5 +1,7 @@
 ### Importing pyplot
 
+### Program by Satya
+
 from matplotlib import pyplot as plt
 
 ##  Plotting starts
